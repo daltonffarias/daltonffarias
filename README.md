@@ -1,4 +1,4 @@
-<h1 align="center">OLá 👋, sou Dalton Farias</h1>
+<h1 align="center">Olá 👋, sou Dalton Farias</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados, matemático em formação.</h3>
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados [Uqbar](https://uqbar.com.br/)
